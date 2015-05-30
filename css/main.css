@@ -206,7 +206,7 @@ textarea {
   float: left;
 }
 
-.description-jinks a, .likes-box a {
+.description-links a, .likes-box a {
   color: #888;
   text-decoration: none;
   font-size: 12px;
@@ -336,7 +336,7 @@ textarea {
 aside {
   margin: 14px 2% 20px 0%;
   padding: 8px 14px 14px 14px;
-  width: 442px;
+  width: 430px;
   float: right;
 }
 
